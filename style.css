@@ -1,0 +1,18 @@
+#firstClass{
+    color:red;
+}
+.secondClass{
+    color:rgb(61, 177, 185);
+}
+.thirdClass{
+    color:#6c5467;
+}
+h2{
+    text-align:center;
+    text-decoration:underline;
+    text-transform:capitalize;
+    letter-spacing:10px;
+    word-spacing:20px;
+    text-shadow:3px 3px blue;
+
+}
